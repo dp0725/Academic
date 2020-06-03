@@ -1,3 +1,3 @@
-# Academic
+# SVR
 
-This repo consists of all my research and pet projects I have developed while I was in School
+This repo contains all projects done using SVR adn SVM models
